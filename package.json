@@ -1,0 +1,26 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "Foodies unite!",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+},
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imjord/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imjord/food-festival/issues"
+  },
+  "homepage": "https://github.com/imjord/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
