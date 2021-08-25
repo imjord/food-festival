@@ -4,10 +4,9 @@
   "description": "Foodies unite!",
   "main": "index.js",
   "scripts": {
-    "webpack": "webpack --watch",
+    "webpack": "webpack-watch",
     "build": "webpack"
-},
-  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/imjord/food-festival.git"
@@ -22,5 +21,6 @@
   "devDependencies": {
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0"
-  }
+  },
+  "dependencies": {}
 }
